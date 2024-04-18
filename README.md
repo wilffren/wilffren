@@ -1,3 +1,10 @@
+
+<style>
+    *{
+        background-color: black;
+        color: white;
+    }
+    </style>
 <strong> Bienvenidos </strong>
 
 <em> Para empezar: </em>
@@ -8,6 +15,8 @@ Mi nombre es <em> WILFFREN MUÑOZ </em>, tengo 20 años, soy estudiante de progr
 Correo: wilffren14@gmail.com
 <br>
 <em> perfil de GITHUB: </em> wilffren
+
+
 
 
 <!--
